@@ -1,0 +1,22 @@
+C:\Users\lbrock\source\repos\Regex\Regex\bin\Debug\netcoreapp3.1\Regex.exe
+C:\Users\lbrock\source\repos\Regex\Regex\bin\Debug\netcoreapp3.1\Regex.deps.json
+C:\Users\lbrock\source\repos\Regex\Regex\bin\Debug\netcoreapp3.1\Regex.runtimeconfig.json
+C:\Users\lbrock\source\repos\Regex\Regex\bin\Debug\netcoreapp3.1\Regex.runtimeconfig.dev.json
+C:\Users\lbrock\source\repos\Regex\Regex\bin\Debug\netcoreapp3.1\Regex.dll
+C:\Users\lbrock\source\repos\Regex\Regex\bin\Debug\netcoreapp3.1\Regex.pdb
+C:\Users\lbrock\source\repos\Regex\Regex\obj\Debug\netcoreapp3.1\Regex.csprojAssemblyReference.cache
+C:\Users\lbrock\source\repos\Regex\Regex\obj\Debug\netcoreapp3.1\Regex.AssemblyInfoInputs.cache
+C:\Users\lbrock\source\repos\Regex\Regex\obj\Debug\netcoreapp3.1\Regex.AssemblyInfo.cs
+C:\Users\lbrock\source\repos\Regex\Regex\obj\Debug\netcoreapp3.1\Regex.dll
+C:\Users\lbrock\source\repos\Regex\Regex\obj\Debug\netcoreapp3.1\Regex.pdb
+C:\Users\lbrock\OneDrive - Knex\Dev.Build_Repos\CSharpBasics\Regex\Regex\bin\Debug\netcoreapp3.1\Regex.exe
+C:\Users\lbrock\OneDrive - Knex\Dev.Build_Repos\CSharpBasics\Regex\Regex\bin\Debug\netcoreapp3.1\Regex.deps.json
+C:\Users\lbrock\OneDrive - Knex\Dev.Build_Repos\CSharpBasics\Regex\Regex\bin\Debug\netcoreapp3.1\Regex.runtimeconfig.json
+C:\Users\lbrock\OneDrive - Knex\Dev.Build_Repos\CSharpBasics\Regex\Regex\bin\Debug\netcoreapp3.1\Regex.runtimeconfig.dev.json
+C:\Users\lbrock\OneDrive - Knex\Dev.Build_Repos\CSharpBasics\Regex\Regex\bin\Debug\netcoreapp3.1\Regex.dll
+C:\Users\lbrock\OneDrive - Knex\Dev.Build_Repos\CSharpBasics\Regex\Regex\bin\Debug\netcoreapp3.1\Regex.pdb
+C:\Users\lbrock\OneDrive - Knex\Dev.Build_Repos\CSharpBasics\Regex\Regex\obj\Debug\netcoreapp3.1\Regex.csprojAssemblyReference.cache
+C:\Users\lbrock\OneDrive - Knex\Dev.Build_Repos\CSharpBasics\Regex\Regex\obj\Debug\netcoreapp3.1\Regex.AssemblyInfoInputs.cache
+C:\Users\lbrock\OneDrive - Knex\Dev.Build_Repos\CSharpBasics\Regex\Regex\obj\Debug\netcoreapp3.1\Regex.AssemblyInfo.cs
+C:\Users\lbrock\OneDrive - Knex\Dev.Build_Repos\CSharpBasics\Regex\Regex\obj\Debug\netcoreapp3.1\Regex.dll
+C:\Users\lbrock\OneDrive - Knex\Dev.Build_Repos\CSharpBasics\Regex\Regex\obj\Debug\netcoreapp3.1\Regex.pdb
